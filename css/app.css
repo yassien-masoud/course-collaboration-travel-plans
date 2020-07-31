@@ -26,6 +26,9 @@ body {
     flex-flow: wrap;
     justify-content: center;
 }
+.clm{
+	display: flex;
+}
 
 .destination {
     background: #03a9f4;
